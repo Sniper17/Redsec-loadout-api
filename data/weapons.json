@@ -1,1 +1,135 @@
-
+{
+  "weapons": {
+    "M16A4": {
+      "name": "M16A4",
+      "aliases": [
+        "m16a4"
+      ]
+    },
+    "B36A4": {
+      "name": "B36A4",
+      "aliases": [
+        "b36a4"
+      ]
+    },
+    "PP-19": {
+      "name": "PP-19",
+      "aliases": [
+        "pp19"
+      ]
+    },
+    "KORD 6P67": {
+      "name": "KORD 6P67",
+      "aliases": [
+        "kord6p67"
+      ]
+    },
+    "DRS-IAR": {
+      "name": "DRS-IAR",
+      "aliases": [
+        "drsiar"
+      ]
+    },
+    "SGX": {
+      "name": "SGX",
+      "aliases": [
+        "sgx"
+      ]
+    },
+    "QBZ-192": {
+      "name": "QBZ-192",
+      "aliases": [
+        "qbz192"
+      ]
+    },
+    "PW5A3": {
+      "name": "PW5A3",
+      "aliases": [
+        "pw5a3"
+      ]
+    },
+    "NVO-228E": {
+      "name": "NVO-228E",
+      "aliases": [
+        "nvo228e"
+      ]
+    },
+    "RPK-74M": {
+      "name": "RPK-74M",
+      "aliases": [
+        "rpk74m"
+      ]
+    },
+    "M2010 ESR": {
+      "name": "M2010 ESR",
+      "aliases": [
+        "m2010esr"
+      ]
+    },
+    "SG-553R": {
+      "name": "SG-553R",
+      "aliases": [
+        "sg553r"
+      ]
+    },
+    "M87A1": {
+      "name": "M87A1",
+      "aliases": [
+        "m87a1"
+      ]
+    },
+    "SVDM": {
+      "name": "SVDM",
+      "aliases": [
+        "svdm"
+      ]
+    },
+    "M4A1": {
+      "name": "M4A1",
+      "aliases": [
+        "m4a1"
+      ]
+    },
+    "SCW-10": {
+      "name": "SCW-10",
+      "aliases": [
+        "scw10"
+      ]
+    },
+    "SOR-556 MK2": {
+      "name": "SOR-556 MK2",
+      "aliases": [
+        "sor556mk2"
+      ]
+    },
+    "PSR": {
+      "name": "PSR",
+      "aliases": [
+        "psr"
+      ]
+    },
+    "L115": {
+      "name": "L115",
+      "aliases": [
+        "l115"
+      ]
+    },
+    "KTS100 MK8": {
+      "name": "KTS100 MK8",
+      "aliases": [
+        "kts100mk8"
+      ]
+    },
+    "CZ3A1": {
+      "name": "CZ3A1",
+      "aliases": [
+        "cz3a1"
+      ]
+    }
+  },
+  "data_checked": "15/08/2026",
+  "sources": [
+    "BattlefieldMeta",
+    "WZStats"
+  ]
+}
