@@ -1,6 +1,7 @@
-# REDSEC Loadout API v2
+# REDSEC Loadout API v3
 
-API separada da Warzone API. O comando `!classe <arma>` consulta em tempo real o loadout Recommended da arma.
+API separada da Warzone API.
 
-Fontes em ordem: BattlefieldMeta, Battlefinity e Battlefield6.gg. A resposta nunca mistura acessórios entre fontes.
-Endpoint: `/classe?arma=svdm`
+Comando: !classe <arma>
+
+A API consulta o loadout Recommended em tempo real e nunca mistura acessórios entre fontes.
