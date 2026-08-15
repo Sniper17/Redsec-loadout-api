@@ -125,11 +125,144 @@
       "aliases": [
         "cz3a1"
       ]
+    },
+    "L110": {
+      "name": "L110",
+      "aliases": [
+        "l110"
+      ]
+    },
+    "L85A3": {
+      "name": "L85A3",
+      "aliases": [
+        "l85a3"
+      ]
+    },
+    "VSSM": {
+      "name": "VSSM",
+      "aliases": [
+        "vssm"
+      ]
+    },
+    "SOR-300SC": {
+      "name": "SOR-300SC",
+      "aliases": [
+        "sor300sc"
+      ]
+    },
+    "M121 A2": {
+      "name": "M121 A2",
+      "aliases": [
+        "m121a2"
+      ]
+    },
+    "VCR-2": {
+      "name": "VCR-2",
+      "aliases": [
+        "vcr2"
+      ]
+    },
+    "UMG-40": {
+      "name": "UMG-40",
+      "aliases": [
+        "umg40"
+      ]
+    },
+    "SL9": {
+      "name": "SL9",
+      "aliases": [
+        "sl9"
+      ]
+    },
+    "RPKM": {
+      "name": "RPKM",
+      "aliases": [
+        "rpkm"
+      ]
+    },
+    "M433": {
+      "name": "M433",
+      "aliases": [
+        "m433"
+      ]
+    },
+    "AK-205": {
+      "name": "AK-205",
+      "aliases": [
+        "ak205"
+      ]
+    },
+    "MINI SCOUT": {
+      "name": "MINI SCOUT",
+      "aliases": [
+        "miniscout"
+      ]
+    },
+    "PW7A2": {
+      "name": "PW7A2",
+      "aliases": [
+        "pw7a2"
+      ]
+    },
+    "USG-90": {
+      "name": "USG-90",
+      "aliases": [
+        "usg90"
+      ]
+    },
+    "EF88": {
+      "name": "EF88",
+      "aliases": [
+        "ef88"
+      ]
+    },
+    "BROD 3": {
+      "name": "BROD 3",
+      "aliases": [
+        "brod3"
+      ]
+    },
+    "TR-7": {
+      "name": "TR-7",
+      "aliases": [
+        "tr7"
+      ]
+    },
+    "AK4D": {
+      "name": "AK4D",
+      "aliases": [
+        "ak4d"
+      ]
+    },
+    "M417 A2": {
+      "name": "M417 A2",
+      "aliases": [
+        "m417a2"
+      ]
+    },
+    "KV9": {
+      "name": "KV9",
+      "aliases": [
+        "kv9"
+      ]
+    },
+    "M39 EMR": {
+      "name": "M39 EMR",
+      "aliases": [
+        "m39emr"
+      ]
+    },
+    "vz. 61": {
+      "name": "vz. 61",
+      "aliases": [
+        "vz61"
+      ]
     }
   },
   "data_checked": "15/08/2026",
   "sources": [
     "BattlefieldMeta",
-    "WZStats"
+    "Battlefinity",
+    "Battlefield6.gg"
   ]
 }
