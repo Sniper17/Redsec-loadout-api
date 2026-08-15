@@ -1,13 +1,6 @@
-# REDSEC Loadout API v1
+# REDSEC Loadout API v2
 
-API separada da Warzone API.
+API separada da Warzone API. O comando `!classe <arma>` consulta em tempo real o loadout Recommended da arma.
 
-Comando: `!classe svdm`
-
-A API consulta em tempo real:
-1. BattlefieldMeta — fonte principal; páginas individuais separam a build Recommended.
-2. WZStats — fallback.
-
-Exemplos: `!classe svdm`, `!classe kord`, `!classe pw5a3`, `!classe sgx`, `!classe m4a1`.
-
-A resposta é compacta e não mistura acessórios de fontes diferentes.
+Fontes em ordem: BattlefieldMeta, Battlefinity e Battlefield6.gg. A resposta nunca mistura acessórios entre fontes.
+Endpoint: `/classe?arma=svdm`
